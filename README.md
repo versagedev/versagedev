@@ -17,7 +17,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on TerminacVPN
+- 🔭 I’m currently working on Evo Wallet
   
 - 🌱 I’m currently learning cryptography and privacy tools
   
