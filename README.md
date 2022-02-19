@@ -7,8 +7,8 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=4nglerdev)
-[![Github](https://img.shields.io/github/followers/4nglerdev?label=Follow&style=social)](https://github.com/4nglerdev)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=t3xasdev)
+[![Github](https://img.shields.io/github/followers/t3xasdev?label=Follow&style=social)](https://github.com/t3xasdev)
 
 <div size='20px'> Hi! My name is Niel. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -32,17 +32,17 @@
 
 
 
-<a href = 'https://www.github.com/4nglerdev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.github.com/t3xasdev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 <br>
 <br>
   <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=4nglerdev&theme=tokyonight)](https://git.io/praveenscience)
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=t3xasdev&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=4nglerdev&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=4nglerdev&theme=tokyonight) |
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=t3xasdev&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=t3xasdev&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4nglerdev&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=4nglerdev&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t3xasdev&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=t3xasdev&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
