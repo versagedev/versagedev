@@ -7,10 +7,10 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=t3xasdev)
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=versagedev)
 [![Github](https://img.shields.io/github/followers/t3xasdev?label=Follow&style=social)](https://github.com/t3xasdev)
 
-<div size='20px'> Hi! My name is Texas Dev. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Versage. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me</h2>
@@ -32,15 +32,15 @@
 
 
 
-<a href = 'https://www.github.com/t3xasdev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://www.github.com/versagedev'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 <br>
 <br>
   <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=t3xasdev&theme=tokyonight)](https://git.io/praveenscience)
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=versagedev&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=t3xasdev&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=t3xasdev&theme=tokyonight) |
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=versagedev&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=versagedev&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=t3xasdev&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=t3xasdev&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
